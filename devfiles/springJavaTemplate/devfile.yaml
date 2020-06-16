@@ -6,7 +6,7 @@ projects:
   - name: springproject
     source:
       type: git
-      location: "https://github.com/codewind-resources/springJavaTemplate"
+      location: "https://github.com/hhellyer/springJavaTemplate"
 components:
   - alias: theia-ide
     type: cheEditor
