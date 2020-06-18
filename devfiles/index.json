@@ -5,7 +5,7 @@
   "icon":"https://raw.githubusercontent.com/codewind-resources/codewind-templates/master/icons/Codewind_blue.svg",
   "language":"java",
   "projectType":"liberty",
-  "location":"https://github.com/codewind-resources/javaMicroProfileTemplate",
+  "location":"https://github.com/hhellyer/javaMicroProfileTemplate",
   "links": {"self":"/devfiles/javaMicroProfileTemplate/devfile.yaml" }
 }
 ,{
